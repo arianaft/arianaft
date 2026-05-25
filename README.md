@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ariana Toscano
 
-🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+🎓 Técnico de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 📍 Asturias, España  
 💻 Interés en desarrollo backend y bases de datos
 
